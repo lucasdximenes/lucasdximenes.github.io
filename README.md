@@ -5,3 +5,7 @@ A medida que for avançando, o portfólio irá sendo modificado e irei adicionan
 ## 3.1:
 
 -   Estruturas de página
+
+## 3.2:
+
+-   Primeiros passos em CSS

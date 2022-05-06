@@ -5,3 +5,7 @@ As you advance, the portfolio will be modified and I will add the new items lear
 ## 3.1:
 
 -   Page structures
+
+## 3.2:
+
+-   First steps in CSS
