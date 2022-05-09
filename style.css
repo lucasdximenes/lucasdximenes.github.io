@@ -1,0 +1,81 @@
+h1 {
+    font-family: cursive;
+}
+
+#sobre {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-style: italic;
+}
+
+body {
+    background-color: #c4ebc8;
+}
+
+.footer {
+    background-color: #86a5d9;
+}
+
+#habilidade {
+    background-color: #26f0f1;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+strong {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.javascript {
+    font-size: 16px;
+}
+.react {
+    font-size: 20px;
+}
+.node {
+    font-size: 24px;
+}
+.mysql {
+    font-size: 28px;
+}
+.css {
+    font-size: 32px;
+}
+.html {
+    font-size: 36px;
+}
+.docker {
+    font-size: 40px;
+}
+.typescript {
+    font-size: 44px;
+}
+.mongodb {
+    font-size: 48px;
+}
+.python {
+    font-size: 52px;
+}
+
+.my-name {
+    text-align: center;
+}
+
+.foto {
+    float: left;
+    height: 210px;
+    padding: 10px;
+    background-color: #26f0f1;
+}
+
+.img-div {
+    height: 230px;
+}
+
+div {
+    border: 2px solid green;
+}
+
+ul li:nth-child(odd) {
+    background-color: #86a5d9;
+}
