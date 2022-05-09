@@ -2,7 +2,9 @@
 
 A medida que for avançando, o portfólio irá sendo modificado e irei adicionando abaixo os novos itens aprendidos nos respectivos blocos.
 
-## 3.1 - Estruturas de página:
+---
+
+## 3.1 - Estruturas de página
 
 ### Requisitos:
 
@@ -15,7 +17,9 @@ A medida que for avançando, o portfólio irá sendo modificado e irei adicionan
 -   Partes do seu portfólio destacadas com negrito e/ou itálico;
 -   Um índice com links internos para as diferentes seções do seu portfólio.
 
-## 3.2 - Primeiros passos em CSS:
+---
+
+## 3.2 - Primeiros passos em CSS
 
 ### Requisitos:
 
@@ -23,3 +27,16 @@ A medida que for avançando, o portfólio irá sendo modificado e irei adicionan
 -   Defina uma cor base de background do seu Portfólio Web;
 -   Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
 -   Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+
+---
+
+## 3.3 - Seletores e posicionamento
+
+### Requisitos:
+
+-   Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+-   A descrição deve ficar ao lado da foto;
+-   Centralize seu nome na página;
+-   Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+-   Adicione margin e padding nos elementos que julgar necessário;
+-   Coloque estilo somente nos itens ímpares da lista das suas habilidades.
