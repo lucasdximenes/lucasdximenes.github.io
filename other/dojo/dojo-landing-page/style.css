@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f1c0d;
+    background-color: #fee9fc;
+}
+
+#xablau {
+    background-color: #ffc5e5;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-left: 50px;
+}
+
+header h1 {
+    float: left;
+}
+
+.section-xablau {
+    margin-top: 150px;
+}
+
+/* #xablau-section {
+} */
+
+#about-us-title {
+    text-align: center;
+    font-size: 32px;
+}
+
+#about-us-p {
+    font-size: 20px;
+}
+
+#services-title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 60px;
+}
+
+.right {
+    float: left;
+    margin-right: 25px;
+    width: 300px;
+}
+
+.product {
+    padding-top: 90px;
+}

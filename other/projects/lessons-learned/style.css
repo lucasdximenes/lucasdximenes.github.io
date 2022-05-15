@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-size: 20px;
+  color: black;
+  line-height: 2;
+  font-family: "Courier New", Courier, monospace;
+}
+
+nav {
+  margin-top: 150px;
+}
+
+img {
+  padding: 25px;
+  background-color: aqua;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.lado-esquerdo {
+  width: 500px;
+  background-color: red;
+  display: inline-block;
+}
+
+.lado-direito {
+  width: 500px;
+  background-color: blue;
+  display: inline-block;
+}
